@@ -1,5 +1,4 @@
-Hi I'm Ktoto48, yeah, I'm from Russia.
-I learning Web Development (JS, CSS, HTML, PHP, SQL)
+Hi I'm Ktoto48, yeah, I'm from Russia and I learn game development (c# unity)
 
 It is my page)))
 Idk what to write.
